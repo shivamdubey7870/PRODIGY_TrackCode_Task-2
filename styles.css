@@ -1,0 +1,19 @@
+/* Basic styles for the stopwatch */
+.stopwatch {
+    text-align: center;
+    font-size: 24px;
+    margin: 50px auto;
+}
+
+.display {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.controls button {
+    font-size: 16px;
+    margin: 5px;
+    padding: 5px 10px;
+}
+
+/* Additional styles can be added for lap list, if desired */
